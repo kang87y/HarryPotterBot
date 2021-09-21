@@ -5,7 +5,7 @@
 ------------------------
 ### 1. %가입
 > 해당 명령어를 통해 해리포터v2(이하 '봇')에 가입하여 다양한 서비스를 누려보세요!
-> https://github.com/kang87y/HarryPotterBot/blob/main/term/TermOfService.md 약관을 반드시 검토해주세요.
+> https://github.com/kang87y/HarryPotterBot/blob/main/term/Term%20Of%20Service.md 약관을 반드시 검토해주세요.
 
 ### 2. %탈퇴
 > 위 약관에 동의하시지 않거나 모종의 이유로 더이상 서비스를 제공받지 않고 싶으시다면 이용해주세요.
